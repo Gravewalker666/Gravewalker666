@@ -1,6 +1,7 @@
 ### Hi there, I'm Heshan Andrews👋
 
-Enthusistic programmer, willing to learn and take on any technology. 
+Programmer, willing to learn and take on any technology.
+Thinker, deeply engaged in reading and analysing social structures.
 
 - 🔭 Working as a volunteering software engineer at Sustainable Education Foundation
 - 🎓 Enrolled as a Computer Science undergraduate at University of Colombo School of Computing 
