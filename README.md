@@ -3,7 +3,7 @@
 Programmer, willing to learn and take on any technology.
 Thinker, deeply engaged in reading and analysing social structures.
 
-- 🔭 Volunteering as Software Engineer at Sustainable Education Foundation
+- 🔭 Volunteering Software Engineer at Sustainable Education Foundation
 - 🎓 Computer Science undergraduate at University of Colombo School of Computing 
 - 📖 Read my articles : [Medium](https://medium.com/@heshanandrews99)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/heshan-andrews/)
