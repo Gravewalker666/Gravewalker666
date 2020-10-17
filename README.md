@@ -1,6 +1,6 @@
 ### Hi there, I'm Heshan Andrews👋
 
-[![](https://github-readme-stats.vercel.app/api?username=gravewalker666)](https://github.com/gravewalker666/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=gravewalker666&hide_border=true&hide_title=true)](https://github.com/gravewalker666/github-readme-stats)
 
 Programmer, A lifelong learner, willing to learn and take on any technology.
 Thinker, deeply engaged in reading and finds fascination in analysing social structures.
