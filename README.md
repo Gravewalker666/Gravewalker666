@@ -4,4 +4,4 @@ Thank you for visiting my conor of the open source world. Please feel free to lo
 
 [![](https://github-readme-stats.vercel.app/api?username=gravewalker666&hide_border=true&hide_title=true)](https://github.com/gravewalker666/github-readme-stats)
 
-[Website](https://heshanandrews.codes) | [Medium](https://andrewsgravewalker.medium.com) | [Linkedin](https://linkedin.com/in/heshan-andrews) | [Twitter](https://twitter.com/AndrewsHeshan) | [Youtube](https://www.youtube.com/channel/UC_sFJoi1Wm08oBMKLWegmgQ) | [Soundcloud](https://soundcloud.com/user-150007563) | [The steps of the Gravewalker Podcast](https://anchor.fm/gravewalker666)
+[Website](https://heshanandrews.codes) | [Medium](https://andrewsgravewalker.medium.com) | [Linkedin](https://linkedin.com/in/heshan-andrews) | [Twitter](https://twitter.com/AndrewsHeshan) | [Youtube](https://www.youtube.com/channel/UC_sFJoi1Wm08oBMKLWegmgQ) | [Soundcloud](https://soundcloud.com/user-150007563) | [Podcast](https://anchor.fm/gravewalker666)
